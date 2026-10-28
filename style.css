@@ -1,0 +1,11 @@
+/* container properties */
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+/* item properties */
+.item {
+  flex: 1;
+}
